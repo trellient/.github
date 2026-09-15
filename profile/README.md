@@ -1,55 +1,276 @@
-# Trellient
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:102A1F,100:1F7A4D&height=220&section=header&text=Trellient&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=The%20structure%20growing%20businesses%20climb.&descAlignY=58&descSize=18&animation=fadeIn" alt="Trellient" width="100%" />
+</p>
 
-**AI agents that do the work, on WhatsApp.**
+<h1 align="center">Trellient</h1>
 
-Most businesses in India already talk to their customers on WhatsApp. They answer the same questions every
-day, miss messages after closing time, and lose orders to a reply that came an hour too late.
+<p align="center">
+  <strong>The structure growing businesses climb.</strong>
+</p>
 
-Trellient puts an AI agent on that number. It answers from the business's own documents, in the customer's
-language. It checks orders, stock and appointments in the systems the business already uses. And when it needs
-to do something that matters — a refund, an exchange, a booking — it asks the owner first, on WhatsApp.
+<p align="center">
+  AI transformation systems for modern small and mid-sized businesses.
+</p>
 
----
+<p align="center">
+  <a href="https://trellient.com"><strong>Website</strong></a>
+  ·
+  <a href="mailto:support@trellient.com"><strong>Contact</strong></a>
+  ·
+  <a href="https://github.com/enterprises/trellient"><strong>GitHub Enterprise</strong></a>
+</p>
 
-## What makes it different
+<br />
 
-Answering questions is not the hard part, and it is not where the value is. Meta's own free Business AI covers
-FAQ bots. The three things that are genuinely hard:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Transformation-1F7A4D?style=for-the-badge" alt="AI Transformation" />
+  <img src="https://img.shields.io/badge/Systems-Workflow%20Automation-0B0F19?style=for-the-badge" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/Approach-Human%20in%20the%20Loop-F5F5F0?style=for-the-badge&labelColor=0B0F19&color=F5F5F0" alt="Human in the Loop" />
+</p>
 
-**It takes actions, not just messages.** Through the business's own systems, the agent looks things up and
-changes them — order status, stock, slots, returns. Not a decision tree with a chat skin.
-
-**The owner stays in control.** Every action has a setting: run it, ask me first, or never. Anything that
-changes data or moves money waits for an Approve or Reject on the owner's phone, with a plain-English summary
-of what is about to happen. Every change is logged with who made it.
-
-**It knows what WhatsApp actually allows.** WhatsApp only lets a business send a normal message within 24
-hours of the customer's last one. Trellient's agents know this: they will not promise an update they cannot
-deliver, and a follow-up that falls outside the window is handed to a person instead of quietly dropped.
-
----
-
-## How it is built
-
-Agents are **configuration, not code**. Each one starts from a reviewed template — its instructions, its
-tools, and a setup form — and is filled in per business. A new client is set up in the admin panel, not in a
-new codebase. New capabilities are written once and every client gets them.
-
-| | |
-|---|---|
-| **Channel** | WhatsApp Cloud API, with one-click connection and coexistence with the WhatsApp Business app |
-| **Agents** | Versioned YAML templates; business verbs bound per client to their own systems |
-| **AI** | Bring your own key — Anthropic, OpenAI, Google, Groq, Mistral and others, or Trellient's |
-| **Integrations** | MCP servers and HTTP endpoints, with per-tool approval policies |
-| **Knowledge** | Hybrid retrieval over the business's own documents, built for Hinglish and short queries |
-| **Stack** | Java 21 · Spring Boot · PostgreSQL · Next.js · TypeScript |
+<br />
 
 ---
 
-## Status
+## About Trellient
 
-In pilot. The platform is built and tested; we are working with our first businesses now.
+**Trellient** is an AI transformation partner for businesses that want to move from scattered AI experiments to practical, reliable, and measurable systems.
 
-If you run an SMB that lives on WhatsApp and this sounds like your problem, we would like to hear from you.
+We help teams identify high-impact workflows, design automation-ready processes, implement AI-enabled systems, and support adoption with training, monitoring, and continuous improvement.
 
-**[trellient.tech](https://trellient.tech)** · [hello@trellient.tech](mailto:hello@trellient.tech)
+Our work focuses on real business outcomes: faster response times, reduced manual work, better operational visibility, stronger follow-up, and more resilient internal systems.
+
+> Great businesses do not grow by effort alone.  
+> They grow when the right structure supports them.  
+> **Trellient builds that structure.**
+
+---
+
+## What We Do
+
+We design and implement AI-enabled operational systems that help businesses work faster, smarter, and with greater consistency.
+
+Our work may include:
+
+- AI workflow automation
+- Customer communication systems
+- Sales and quotation workflows
+- Document and data processing
+- Internal AI assistants
+- Human-in-the-loop approval systems
+- Process audits and workflow mapping
+- Automation monitoring and reporting
+- Team training and operational enablement
+
+We focus on practical systems that connect people, tools, data, and decisions.
+
+---
+
+## Our Approach
+
+Trellient follows a structured transformation approach designed to reduce implementation risk and keep every project connected to measurable business value.
+
+```mermaid
+flowchart LR
+    A[Discover] --> B[Map]
+    B --> C[Prioritize]
+    C --> D[Build]
+    D --> E[Train]
+    E --> F[Measure]
+    F --> G[Improve]
+```
+
+### Discover
+
+We begin by understanding the business, its workflows, its tools, and the operational bottlenecks that matter most.
+
+### Map
+
+We map the current process, identify data sources, define decision points, and clarify where automation can safely create value.
+
+### Prioritize
+
+We select focused, high-impact use cases instead of attempting broad transformation all at once.
+
+### Build
+
+We implement reliable systems that combine automation, AI assistance, integrations, and human approval where needed.
+
+### Train
+
+We help teams understand how to use, review, and improve the systems being introduced.
+
+### Measure
+
+We track outcomes so the business can see what improved and where the next opportunity exists.
+
+### Improve
+
+We continuously refine systems based on usage, feedback, and operational results.
+
+---
+
+## Design Principles
+
+### Outcome-First
+
+Technology is only valuable when it improves a business outcome. We prioritize saved time, faster decisions, better follow-up, fewer errors, and clearer operations.
+
+### Practical AI
+
+AI should be applied where it is useful — not everywhere. We use automation for reliability, AI for ambiguity, and people for judgment.
+
+### Human Control
+
+Business-critical systems should be transparent and reviewable. We design approval flows, audit trails, and escalation paths into important workflows.
+
+### Integration Over Isolation
+
+AI creates the most value when it works inside the tools, data, and processes a business already uses.
+
+### Simplicity Before Scale
+
+We prefer clear, maintainable systems over complex architectures. Strong foundations make future scaling easier.
+
+### Enablement, Not Dependency
+
+We build systems that teams can understand, trust, and operate with confidence.
+
+---
+
+## Focus Areas
+
+Trellient works across operationally intensive business functions where speed, accuracy, and consistency matter.
+
+Common focus areas include:
+
+- Customer enquiries and response workflows
+- Sales operations and quotation processes
+- Lead follow-up and pipeline communication
+- Invoice and document handling
+- Internal reporting and business digests
+- Support triage and escalation
+- Operations tracking and workflow visibility
+- Data cleanup and process readiness
+
+---
+
+## Example System Pattern
+
+A typical Trellient workflow follows a simple and reliable structure:
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant S as System
+    participant D as Data Source
+    participant H as Human Reviewer
+    participant L as Log
+
+    U->>S: Sends request
+    S->>S: Understands intent
+    S->>D: Retrieves verified information
+    D-->>S: Returns trusted data
+    S->>H: Prepares draft for review
+    H-->>S: Approves or edits
+    S->>U: Completes response
+    S->>L: Records action
+```
+
+This pattern keeps AI useful, grounded, and accountable.
+
+---
+
+## Engineering Standards
+
+Our engineering work is guided by reliability, clarity, and long-term maintainability.
+
+We value:
+
+- Clear documentation
+- Secure defaults
+- Least-privilege access
+- Human approval for sensitive actions
+- Structured logging
+- Error monitoring
+- Data minimization
+- Reusable components
+- Client-specific boundaries
+- Simple systems before complex systems
+
+---
+
+## Security & Trust
+
+Trust is central to every system Trellient builds.
+
+We aim to design systems that are:
+
+- Transparent
+- Reviewable
+- Measurable
+- Secure by default
+- Easy to operate
+- Resilient under real-world usage
+
+Automation should increase operational confidence, not create invisible risk.
+
+---
+
+## Repository Structure
+
+This GitHub Enterprise space is used to organize Trellient’s technical foundation, internal tooling, reusable components, and documentation.
+
+Example repository categories may include:
+
+```txt
+trellient/
+├── automation-systems
+├── integration-connectors
+├── workflow-templates
+├── internal-tools
+├── deployment-infra
+├── monitoring
+├── documentation
+└── research
+```
+
+Each repository should be documented, maintainable, and structured for responsible collaboration.
+
+---
+
+## Brand Promise
+
+Trellient exists to help businesses adopt AI with structure, clarity, and confidence.
+
+We are here to build systems that make operations more capable:
+
+- Faster workflows
+- Clearer decisions
+- Better follow-up
+- Less repetitive work
+- Stronger visibility
+- Measurable improvement
+- Resilient growth
+
+---
+
+## Contact
+
+For partnerships, pilots, support, or collaboration:
+
+**Website:** [trellient.com](https://trellient.com)  
+**Email:** [support@trellient.com](mailto:support@trellient.com)  
+**GitHub Enterprise:** [github.com/enterprises/trellient](https://github.com/enterprises/trellient)
+
+---
+
+<p align="center">
+  <strong>Trellient</strong>
+  <br />
+  <em>The structure growing businesses climb.</em>
+</p>
+
+<p align="center">
+  Built for practical, measurable, and resilient AI transformation.
+</p>
