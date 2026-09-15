@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Trellient</h1>
-#strong
+
 <p align="center">
   <strong>The structure growing businesses climb.</strong>
 </p>
